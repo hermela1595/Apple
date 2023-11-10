@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09c2dab2.css",
+    "main.js": "/static/js/main.116f1737.js",
+    "static/media/apple2.jpg": "/static/media/apple2.85fb1d569f17803eda09.jpg",
+    "static/media/apple3.jpg": "/static/media/apple3.8406847bdb92ace108a4.jpg",
+    "static/media/apple2-2.jpg": "/static/media/apple2-2.051f8a3f2a0c989d5ea2.jpg",
+    "static/media/apple1.jpg": "/static/media/apple1.784a4be3e49d531b2b39.jpg",
+    "static/media/iphone_small.jpg": "/static/media/iphone_small.6aa6c25cdd0dd1db0bd8.jpg",
+    "static/media/vision2.jpg": "/static/media/vision2.8738f6cef868a68afb0c.jpg",
+    "static/media/promo_ipadpro_refresh__evi9utuixwuq_small.jpg": "/static/media/promo_ipadpro_refresh__evi9utuixwuq_small.cfc99e3e9880af2e8190.jpg",
+    "static/media/apple4.jpg": "/static/media/apple4.17044748bd456cbc1dc3.jpg",
+    "static/media/watch_series8.jpg": "/static/media/watch_series8.fec9b337041868b66034.jpg",
+    "static/media/apple3-3.jpg": "/static/media/apple3-3.6ec95e1e5ec3bbca2000.jpg",
+    "static/media/appleCard_small.jpg": "/static/media/appleCard_small.f696674bbf8cb56686d5.jpg",
+    "index.html": "/index.html",
+    "main.09c2dab2.css.map": "/static/css/main.09c2dab2.css.map",
+    "main.116f1737.js.map": "/static/js/main.116f1737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c2dab2.css",
+    "static/js/main.116f1737.js"
+  ]
+}
